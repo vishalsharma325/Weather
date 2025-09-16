@@ -1,4 +1,4 @@
-....# Dynamic Weather Dashboard
+......# Dynamic Weather Dashboard
 
 A beautiful, responsive weather dashboard that provides real-time weather information and 5-day forecasts using the OpenWeather API. Features automatic location detection, city search, and a modern glassmorphism design.
 
