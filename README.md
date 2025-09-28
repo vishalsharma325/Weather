@@ -57,9 +57,7 @@ This application uses the OpenWeather API:
 - **Data Update**: Weather data is updated every 10 minutes
 
 ## Customization
-
 ### Changing the Default City
-
 To change the default city when geolocation is not available, edit line 25 in `script.js`:
 
 ```javascript
@@ -146,4 +144,5 @@ If you encounter any issues or have questions:
 ---
 
 **Enjoy your weather dashboard! 🌤️**
+
 
