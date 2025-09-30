@@ -76,7 +76,6 @@ The code is modular and easy to extend. You can add:
 - Historical weather data
 - Multiple city tracking
 - Weather maps integration
-
 ## Browser Compatibility
 
 - ✅ Chrome 60+
@@ -141,6 +140,7 @@ If you encounter any issues or have questions:
 ---
 
 **Enjoy your weather dashboard! 🌤️**
+
 
 
 
