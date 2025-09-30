@@ -16,7 +16,6 @@ A beautiful, responsive weather dashboard that provides real-time weather inform
 - 🎨 **Modern UI** - Beautiful glassmorphism design with smooth animations
 - ⚡ **Fast Loading** - Optimized for quick data fetching and display
 - 🌙 **Dark Mode Support** - Automatically adapts to system preferences
-
 ## File Structure
 
 ```
@@ -142,6 +141,7 @@ If you encounter any issues or have questions:
 ---
 
 **Enjoy your weather dashboard! 🌤️**
+
 
 
 
