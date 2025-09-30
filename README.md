@@ -30,7 +30,6 @@ Dynamic Weather Dashboard/
 ## Usage
 
 ### Getting Started
-
 1. **Automatic Location**: The dashboard will automatically try to detect your location and show the weather
 2. **Manual Search**: Type any city name in the search box and press Enter or click the search button
 3. **Current Location**: Click the location button to refresh weather for your current position
@@ -143,6 +142,7 @@ If you encounter any issues or have questions:
 ---
 
 **Enjoy your weather dashboard! 🌤️**
+
 
 
 
