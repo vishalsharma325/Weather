@@ -36,7 +36,6 @@ Dynamic Weather Dashboard/
 3. **Current Location**: Click the location button to refresh weather for your current position
 
 ### Features Overview
-
 - **Current Weather Card**: Shows temperature, weather conditions, and detailed metrics
 - **5-Day Forecast**: Displays upcoming weather with daily predictions
 - **Responsive Design**: Automatically adapts to your screen size
@@ -144,5 +143,6 @@ If you encounter any issues or have questions:
 ---
 
 **Enjoy your weather dashboard! 🌤️**
+
 
 
