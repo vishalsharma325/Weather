@@ -26,7 +26,7 @@ Dynamic Weather Dashboard/
 └── README.md           # This file
 ```
 
-## Usage
+## Usagenn
 
 ### Getting Started
 1. **Automatic Location**: The dashboard will automatically try to detect your location and show the weather
