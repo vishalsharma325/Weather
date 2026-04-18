@@ -1,6 +1,6 @@
 # Dynamic Weather Dashboard
 A beautiful, responsive weather dashboard that provides real-time weather information and 5-day forecasts using the OpenWeather API. Features automatic location detection, city search, and a modern glassmorphism design.
-
+.
 ![Weather Dashboard](https://img.shields.io/badge/Weather-Dashboard-blue?style=for-the-badge&logo=weather)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
