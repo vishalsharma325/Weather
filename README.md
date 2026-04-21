@@ -139,7 +139,7 @@ If you encounter any issues or have questions:
 
 ---
 
-**Enjoy your weather dashboard! 🌤️**
+**Enjoy your Weather dashboard! 🌤️**
 
 
 
